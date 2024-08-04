@@ -7,6 +7,8 @@ The game is a short art-game to showcase it properly. The "engine" does not have
 
 The graphics code itself that uses PyOpenGL can legitimately trace its roots back to [OrbitSim3D](https://arda-guler.github.io/OrbitSim3D-web/).
 
+The name of the game is a reference to ["The City and The Stars"](https://en.wikipedia.org/wiki/The_City_and_the_Stars).
+
 ## Game
 It is a short multiple-endings walking simulator game. WASD to walk, mouse to look around.
 
